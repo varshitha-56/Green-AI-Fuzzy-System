@@ -1,0 +1,189 @@
+AI_Tool,Accuracy,Energy,Latency,Green_Verdict
+OpenAI (400k),Low,Medium,Medium,Moderate
+Anthropic (200k),High,High,Low,Moderate
+Google (1m),Medium,Medium,Medium,Moderate
+OpenAI (400k),High,Medium,Medium,Moderate
+Google (1m),High,Low,Low,Optimal
+OpenAI (400k),Medium,Low,Low,Moderate
+Anthropic (200k),Medium,Low,Low,Moderate
+Anthropic (1m),Low,High,Low,Moderate
+Z AI (200k),Low,Medium,Low,Moderate
+OpenAI (400k),Medium,Medium,Medium,Moderate
+xAI (256k),High,Low,Low,Optimal
+DeepSeek (128k),High,High,Low,Moderate
+OpenAI (200k),Medium,Medium,Low,Moderate
+OpenAI (400k),Low,Low,High,Moderate
+Google (1m),Medium,Low,Low,Poor
+Kimi (256k),High,Low,Low,Optimal
+MiniMax (205k),Low,Low,Low,Poor
+Xiaomi (256k),Medium,Medium,Low,Moderate
+xAI (2m),High,Medium,Low,Optimal
+OpenAI (400k),Low,Low,Low,Poor
+Anthropic (1m),Medium,Medium,Low,Moderate
+Anthropic (200k),High,Low,Low,Optimal
+KwaiKAT (256k),Low,Low,Low,Poor
+MiniMax (205k),Medium,Medium,Low,Moderate
+Amazon (256k),High,Medium,Medium,Moderate
+Google (1m),Low,Medium,Low,Moderate
+xAI (2m),Medium,Low,Low,Moderate
+Google (1m),High,Medium,Medium,Moderate
+DeepSeek (128k),High,Medium,Low,Optimal
+Z AI (200k),Medium,Low,Low,Moderate
+DeepSeek (128k),Low,Medium,Low,Moderate
+ByteDance Seed (256k),Medium,Low,Low,Moderate
+OpenAI (400k),Medium,Low,Low,Moderate
+OpenAI (131k),Medium,High,Low,Moderate
+Alibaba (262k),Medium,High,Low,Moderate
+xAI (1m),High,Medium,Low,Optimal
+Amazon (256k),High,Low,Low,Optimal
+LG AI Research (256k),Medium,Low,Low,Poor
+DeepSeek (128k),Medium,Medium,Low,Moderate
+Alibaba (262k),Low,Medium,Low,Moderate
+Anthropic (200k),Medium,Low,Low,Moderate
+Xiaomi (256k),Medium,Medium,Low,Moderate
+Amazon (1m),High,Low,Medium,Moderate
+Alibaba (256k),Medium,High,Low,Moderate
+Baidu (128k),Medium,Low,Low,Moderate
+Alibaba (256k),High,Medium,Low,Optimal
+DeepSeek (128k),Medium,Low,Low,Moderate
+Amazon (1m),High,Medium,Low,Optimal
+Kimi (256k),Low,Medium,Low,Moderate
+ServiceNow (128k),High,Low,Low,Optimal
+Alibaba (262k),Medium,High,Low,Moderate
+Mistral (128k),Medium,Medium,Low,Moderate
+DeepSeek (128k),Medium,High,Low,Moderate
+OpenAI (400k),Medium,High,High,Moderate
+Alibaba (262k),Medium,Medium,Low,Moderate
+xAI (256k),Low,High,Low,Moderate
+Amazon (1m),Low,Low,Low,Poor
+Alibaba (262k),High,Low,Low,Optimal
+OpenAI (131k),Medium,Low,Low,Moderate
+NVIDIA (1m),High,Low,Low,Optimal
+Alibaba (256k),High,Medium,Low,Optimal
+Naver (128k),High,Low,Low,Optimal
+Motif Technologies (128k),Low,Medium,Low,Moderate
+Amazon (1m),Medium,Medium,Low,Moderate
+OpenAI (131k),Medium,Low,Low,Moderate
+Z AI (128k),Low,Medium,Low,Moderate
+xAI (2m),High,Low,Low,Optimal
+Z AI (128k),High,Medium,Low,Optimal
+Korea Telecom (128k),High,Low,Low,Optimal
+LG AI Research (256k),Medium,High,Low,Moderate
+Amazon (256k),High,Medium,Low,Optimal
+Alibaba (262k),Low,Low,Low,Poor
+xAI (2m),Medium,Low,Low,Poor
+Alibaba (262k),Medium,Medium,Low,Moderate
+Mistral (128k),High,Medium,Low,Optimal
+Mistral (256k),Medium,Medium,Low,Moderate
+Prime Intellect (131k),Low,Medium,Low,Moderate
+Google (1m),Medium,Low,Low,Poor
+Mistral (256k),Medium,Medium,Low,Moderate
+Nous Research (128k),Medium,Low,Low,Poor
+Mistral (128k),Low,High,Low,Moderate
+OpenAI (131k),Medium,Medium,Low,Moderate
+MBZUAI Institute of Foundation Models (512k),Medium,Low,Low,Moderate
+Alibaba (262k),High,Low,Low,Optimal
+InclusionAI (128k),High,Low,Low,Optimal
+Nous Research (128k),Medium,Low,Low,Moderate
+Alibaba (262k),Medium,Medium,Low,Moderate
+NVIDIA (128k),High,Medium,Low,Optimal
+Alibaba (262k),High,High,Low,Moderate
+InclusionAI (128k),High,Medium,Low,Optimal
+Google (1m),High,Low,Low,Optimal
+Alibaba (256k),High,Medium,Low,Optimal
+InclusionAI (128k),Low,Medium,Low,Moderate
+Mistral (256k),High,Medium,Low,Optimal
+NVIDIA (128k),Low,Medium,Low,Moderate
+Amazon (1m),Medium,Medium,Low,Moderate
+MBZUAI Institute of Foundation Models (512k),High,Medium,Low,Optimal
+Mistral (256k),High,Medium,Low,Optimal
+Meta (1m),Low,Low,Low,Poor
+NVIDIA (128k),High,Low,Low,Optimal
+Amazon (1m),Low,Low,Low,Poor
+Z AI (128k),Medium,Medium,Low,Moderate
+Baidu (131k),High,Low,Low,Optimal
+Nous Research (128k),Medium,Medium,Low,Moderate
+Alibaba (256k),Medium,High,Low,Moderate
+LG AI Research (131k),High,Low,Low,Optimal
+Amazon (1m),High,Medium,Low,Optimal
+Alibaba (256k),High,Medium,Low,Optimal
+Allen Institute for AI (66k),Low,Low,Low,Poor
+DeepSeek (33k),Medium,Low,Low,Moderate
+Alibaba (256k),Medium,Low,Low,Moderate
+Mistral (256k),Low,Low,Low,Poor
+Alibaba (262k),Medium,High,Low,Moderate
+TII UAE (256k),Medium,Medium,Low,Moderate
+DeepSeek (128k),High,Medium,Low,Optimal
+Alibaba (66k),High,High,Low,Moderate
+Mistral (256k),Low,Medium,Low,Moderate
+Upstage (66k),Low,Low,Low,Poor
+Alibaba (262k),High,High,Low,Moderate
+NVIDIA (131k),Low,Medium,Low,Moderate
+NVIDIA (128k),Low,Medium,Low,Moderate
+InclusionAI (131k),Medium,High,Low,Moderate
+MBZUAI Institute of Foundation Models (512k),Low,Low,Low,Poor
+Mistral (128k),High,Low,Low,Optimal
+Alibaba (256k),High,Low,Low,Optimal
+Mistral (256k),Low,Medium,Low,Moderate
+Meta (128k),Medium,Medium,Low,Moderate
+NVIDIA (128k),High,High,Low,Moderate
+Alibaba (256k),High,Low,Low,Optimal
+NVIDIA (128k),Low,Medium,Low,Moderate
+Kimi (1m),Low,Medium,Low,Moderate
+Reka AI (128k),High,Low,Low,Optimal
+NVIDIA (128k),High,Low,Low,Optimal
+Meta (128k),Low,Low,Low,Poor
+Alibaba (256k),Medium,High,Low,Moderate
+Upstage (66k),High,Low,Low,Optimal
+Meta (10m),High,Medium,Low,Optimal
+NVIDIA (128k),Low,Medium,Low,Moderate
+Nous Research (128k),High,Medium,Low,Optimal
+NVIDIA (1m),High,High,Low,Moderate
+Cohere (256k),Medium,High,Low,Moderate
+NVIDIA (131k),Low,Low,Low,Poor
+Microsoft Azure (16k),Low,Medium,Low,Moderate
+Alibaba (32k),Low,Low,Low,Poor
+AI21 Labs (262k),High,Low,Low,Optimal
+Perplexity (128k),Low,Low,Low,Poor
+Meta (128k),Low,Medium,Low,Moderate
+Mistral (256k),Medium,Medium,Low,Moderate
+LG AI Research (131k),Low,Low,Low,Poor
+Amazon (130k),Low,Low,Low,Poor
+Liquid AI (33k),Low,High,Low,Moderate
+IBM (128k),Medium,Low,Low,Moderate
+IBM (128k),High,Low,Low,Optimal
+Microsoft Azure (128k),Medium,Medium,Low,Moderate
+Nous Research (32k),Low,High,Low,Moderate
+Meta (128k),Medium,Low,Low,Poor
+Alibaba (66k),Medium,Medium,Low,Moderate
+Alibaba (32k),High,Medium,Low,Optimal
+Google (128k),High,Low,Low,Optimal
+NVIDIA (128k),Low,Medium,Low,Moderate
+Microsoft Azure (128k),Low,Medium,Low,Moderate
+Google (32k),High,Medium,Low,Optimal
+AI21 Labs (256k),High,Medium,Low,Optimal
+Allen Institute for AI (4k),Medium,Medium,Low,Moderate
+Google (128k),High,Low,Medium,Moderate
+Google (32k),High,Medium,Low,Optimal
+LG AI Research (64k),Medium,Low,Low,Moderate
+Google (32k),High,Low,Low,Optimal
+LG AI Research (64k),Low,Low,Low,Poor
+IBM (128k),Low,Medium,Low,Moderate
+Allen Institute for AI (66k),Low,Medium,Low,Moderate
+Liquid AI (33k),Low,Low,Low,Poor
+Nous Research (128k),High,Medium,Low,Optimal
+AI21 Labs (258k),Low,Low,Low,Poor
+IBM (128k),High,Medium,Low,Optimal
+IBM (33k),Low,Low,Low,Poor
+Alibaba (32k),Medium,Medium,Low,Moderate
+Liquid AI (33k),Medium,Medium,Low,Moderate
+Google (128k),Low,High,Low,Moderate
+Google (32k),Medium,Low,Low,Moderate
+Alibaba (32k),Medium,Low,Low,Moderate
+IBM (33k),Medium,Low,Low,Poor
+DeepSeek (8k),High,High,Low,Moderate
+xAI (32k),Low,High,Low,Moderate
+Allen Institute for AI (66k),Low,Low,Low,Poor
+Deep Cogito (128k),Medium,Medium,Low,Moderate
+Korea Telecom (128k),Medium,Medium,Low,Moderate
+ByteDance Seed (256k),Low,Medium,Low,Moderate
